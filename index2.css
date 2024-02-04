@@ -1,0 +1,40 @@
+body{
+    background-image:url("https://r2.erweima.ai/stablediffusion/cfde9b099ed54ec9aab0ca26a77a18d0_ComfyUI_51047_.png");
+}
+
+h1{
+    font-size: 60px;
+    font-family:sans-serif;
+    margin-left: 30px;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+}
+ul{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+div{
+    margin-left: 550px;
+    height: 300px;
+    width: 450px;
+}
+
+.tu{
+    margin-left: 1300px;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: sans-serif;
+    color:darkred;
+    background-color: #ffe605;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10%;
+}

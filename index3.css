@@ -1,0 +1,13 @@
+.te{
+    margin-left: 1300px;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: sans-serif;
+    color:darkred;
+    background-color: #ffe605;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10%;
+}
